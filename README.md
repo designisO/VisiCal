@@ -7,7 +7,7 @@ In this project I was able to create a calculator called "VisiCal". This calulat
 ### Architecture
 Python, Kivy
 
-###
+<img src = "visical.png" />
 
 
 
